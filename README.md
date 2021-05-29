@@ -2,4 +2,4 @@
 
 #### Github Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenFontes&show_icons=true&theme=tokyonight)](https://github.com/RubenFontes/RubenFontes)
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
