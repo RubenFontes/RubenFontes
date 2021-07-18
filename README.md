@@ -1,4 +1,4 @@
-### Hi!
+### Hi, I'm Ruben, digital media student and beginning programmer
 
 #### 👨‍💻 Technologies
 
