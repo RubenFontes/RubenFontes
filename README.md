@@ -1,5 +1,5 @@
 # Hi! 
-### I'm Ruben Fontes, student of Digital Media at UFPB and Web Front-end Developer
+### I'm Ruben Fontes, student of Digital Media at UFPB and Front-end Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
