@@ -11,7 +11,7 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Stacks
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -23,31 +23,23 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&show_icons=true&theme=vision-friendly-dark" alt="stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=vision-friendly-dark" alt="most languages"/>
 </p>
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨🏽‍🦲 &nbsp;Social
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<a href="https://twitter.com/Rubengcfs" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://www.linkedin.com/in/rubengfontes/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://t.me/rubengcf" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="telegram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-</p>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
+<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Rubengcfs&layout=wide&show_reply=off&show_retweet=off" />
 
