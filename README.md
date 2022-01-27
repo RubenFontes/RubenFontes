@@ -13,23 +13,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&show_icons=true&theme=vision-friendly-dark" alt="stats"/>
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=vision-friendly-dark" alt="most languages"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&show_icons=true&theme=vision-friendly-dark" alt="stats"/>
+<img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=vision-friendly-dark" alt="most languages"/>
 </p>
 
 <br><br>
-
-## 👨🏽‍🦲 &nbsp;Social
-
-<a href="https://twitter.com/Rubengcfs" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/rubengfontes/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://t.me/rubengcf" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="telegram"/>
-</a>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=Rubengcfs&layout=wide&show_reply=off&show_retweet=off" />
-
