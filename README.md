@@ -5,6 +5,5 @@
 <br>
 <p align="center">
 <img width="300px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
-<img width="400px" height="120px" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-" alt="most languages"/>
+<img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
 </p>
