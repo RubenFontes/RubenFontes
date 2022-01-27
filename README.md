@@ -4,6 +4,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 <br>
 <p align="center">
-<img width="300px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
-<img width="300px" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
+<img width="360px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
 </p>
