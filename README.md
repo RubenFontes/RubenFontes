@@ -3,8 +3,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RubenFontes&color=blue" alt="Profile views" /> </p>
 
-<br>
-
 <!-- <div align="center" style="display: inline-block, margin:1rem 0" >
     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -13,11 +11,10 @@
     <img align="center" alt="Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 </div> -->
-
-<br>
+##
 <br>
 
 <p align="center">
-<img width="360px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
+<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
 </p>
