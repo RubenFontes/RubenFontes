@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ruben Fontes</h1>
-<h3 align="center">Front-end developer in Brasil</h3>
+<h4 align="center">Front-end developer in Brasil</h4>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
 
@@ -10,6 +11,6 @@
 
 
 <p align="center">
-<img width="320em" height="120px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&show_icons=true&theme=vision-friendly-dark" alt="stats"/>
-<img width="320em" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=vision-friendly-dark" alt="most languages"/>
+<img width="330em" height="120px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&show_icons=true&theme=vision-friendly-dark" alt="stats"/>
+<img width="330em" height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=vision-friendly-dark" alt="most languages"/>
 </p>
