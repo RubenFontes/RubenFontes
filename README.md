@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ruben Fontes</h1>
 <h3 align="center">Front-end developer in Brasil</h3>
-<br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RubenFontes&color=blue" alt="Profile views" /> </p>
 
 <!-- <div align="center" style="display: inline-block, margin:1rem 0" >
@@ -12,9 +12,9 @@
 
 </div> -->
 ##
-<br>
+
 
 <p align="center">
-<img width="420px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
-<img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
+<img width="380px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
+<img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
 </p>
