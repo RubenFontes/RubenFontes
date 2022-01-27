@@ -1,17 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ruben Fontes</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥  Front-end Developer & Designer
-
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
-
-- 👨‍💻 All of my projects are available at [rubenfontes.github.io](https://rubenfontes.github.io)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
 <br><br>
-
-## 🛠 &nbsp;Stacks
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
