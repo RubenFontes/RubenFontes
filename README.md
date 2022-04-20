@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ruben Fontes</h1>
 <h3 align="center">Front-end developer in Brasil</h3>
-<h4 align="center">HTML | CSS | JS | JQUERY | BOOTSTRAP | NODE</h4>
+<h4 align="center">HTML | CSS | JS | JQUERY | BOOTSTRAP</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RubenFontes&color=blue" alt="Profile views" /> </p>
 
@@ -16,6 +16,6 @@
 
 
 <p align="center">
-<img width="380px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&show_icons=true)"/>
+<img width="380px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&showicons=true)"/>
 <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
 </p>
