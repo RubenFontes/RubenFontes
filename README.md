@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ruben Fontes</h1>
+<h1 align="center">Hi, I'm Ruben Fontes</h1>
 <h3 align="center">Front-end developer in Brasil</h3>
 <h6 align="center">HTML | CSS | JS | JQUERY | BOOTSTRAP</h6><br>
 
