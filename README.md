@@ -15,7 +15,7 @@
 ##
 
 
-<p align="center">
+<p align="left">
 <img width="380px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&showicons=true)"/>
 <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
 </p>
