@@ -16,6 +16,6 @@
 
 
 <p align="left">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&showicons=true)"/>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=RubenFontes&theme=github_dark&showicons=true)"/>
 <!--<img width="334px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>-->
 </p>
