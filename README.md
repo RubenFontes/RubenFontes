@@ -1,5 +1,7 @@
-<h3 align="left">Hi, I'm Ruben</h3>
-<p align="left">working with front-end in Brazil</hp>
+<div style="display:inline">
+   <span><strong>Hi, I'm Ruben</strong></span><br>
+   <span>working with front-end in Brazil</span>
+</div>
 <!--<h6 align="center">HTML | CSS | JS | JQUERY | BOOTSTRAP</h6><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=RubenFontes&color=blue" alt="Profile views" /> </p>
