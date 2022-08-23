@@ -6,13 +6,8 @@
 [![React](https://img.shields.io/badge/-react-blue?style=for-the-badge&logoColor=black&logo=react&color=61DAFB)](https://github.com/juanpeter?tab=repositories&q=react&type=&language=)
 [![NodeJS](https://img.shields.io/badge/-node.js-green?style=for-the-badge&logoColor=white&logo=node.js&color=339933)]()
 
-
 <p align=""> <img src="https://komarev.com/ghpvc/?username=RubenFontes&color=blue" alt="Profile views" /> </p>
 
-<br>
-<!--
-<p align="">
+<!--<p align="">
 <img width="334px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
-</p>
-
--->
+</p>-->
