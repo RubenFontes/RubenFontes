@@ -1,6 +1,6 @@
 <div align=>
    <h2><strong>Hi, i'm Ruben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></strong></h2>
-   <p>Coding since 2018.</p>
+   <p>Coding since 2018</p>
 </div>
 
 [![React](https://img.shields.io/badge/-react-blue?style=for-the-badge&logoColor=black&logo=react&color=61DAFB)](https://github.com/juanpeter?tab=repositories&q=react&type=&language=)
