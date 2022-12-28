@@ -14,12 +14,14 @@
 -->
 
 
-<div align="left">
-<img width="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark"/>
+<div align="center" width="100%">
+   <img width="60%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark"/>
+   <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark"/>
 </div>
 
-<div align="left">
-   <img width="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark"/>
-   <img width="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark"/>
+<div align="center" width="100%"> 
+   <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RubenFontes&theme=github_dark&utcOffset=8"/>
+   <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark"/>
+   <img width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RubenFontes&theme=github_dark"/>
 </div>
 
