@@ -1,4 +1,4 @@
-<div align=>
+<!--<div align=>
    <h2><strong>Hi, i'm Ruben <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></strong></h2>
    <p>Coding since 2018</p>
 </div>
@@ -8,6 +8,16 @@
 
 <p align=""> <img src="https://komarev.com/ghpvc/?username=RubenFontes&color=blue" alt="Profile views" /> </p>
 
-<!--<p align="">
+<p align="">
 <img width="334px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubenFontes&layout=compact&theme=github_dark"/>
-</p>-->
+</p>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RubenFontes&hide=Html&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=RubenFontes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |-->
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark)
