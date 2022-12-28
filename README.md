@@ -13,9 +13,5 @@
 </p>
 -->
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark) |
-| :-: | 
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark) |
-| :-: | :-: | 
-
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark) |
+| :-: | :-: | :-: |
