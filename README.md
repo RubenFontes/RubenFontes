@@ -14,12 +14,12 @@
 -->
 
 
-<div align="center" width="100%">
-   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark"/>
+<div align="left" width="100%">
+   <img width="" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark"/>
 </div>
 
-<div align="center" width="100%"> 
-   <img width="37%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark"/>
-   <img width="37%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark"/>
+<div align="left" width="100%"> 
+   <img width="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark"/>
+   <img width="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RubenFontes&theme=github_dark"/>
 </div>
 
