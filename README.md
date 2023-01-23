@@ -15,7 +15,7 @@
 
 
 <div align="left" width="100%">
-   <a href="https://github.com/RubenFontes"><img width="600px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark"/></a>
+   <a href="https://github.com/RubenFontes"><img width="610px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark"/></a>
 </div>
 
 <div align="left" width="100%"> 
