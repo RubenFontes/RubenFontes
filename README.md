@@ -14,9 +14,9 @@
 -->
 
 
-<div align="left" width="100%">
+<!--<div align="left" width="100%">
    <a href="https://github.com/RubenFontes"><img width="610px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RubenFontes&theme=github_dark"/></a>
-</div>
+</div>-->
 
 <div align="left" width="100%"> 
    <a href="https://github.com/RubenFontes"><img width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RubenFontes&theme=github_dark"/></a>
